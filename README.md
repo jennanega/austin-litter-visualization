@@ -22,4 +22,5 @@ Focused on clear storytelling and real-world community impact through data
 Designed to be accessible to both technical and non-technical audiences
 
 This project is a direct example of how data analysis can support nonprofit impact work, combining technical skills with mission-driven results.
+
 ![Total Waste Collected by Bin – Summer 2024](Graph.png)
